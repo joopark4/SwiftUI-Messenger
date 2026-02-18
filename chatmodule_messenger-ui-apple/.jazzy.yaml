@@ -1,0 +1,20 @@
+author: ChatModule Inc.
+github_url: https://gitlab.chatmodulecorp.com/chatmodule_messenger/chatmodule_messenger-ui-apple
+module: ChatModuleMessengerUI
+
+clean: true
+skip_undocumented: true
+min_acl: public
+swift_build_tool: spm
+sdk: iphoneos
+
+# if SDK not founded, run `xcrun --sdk iphonesimulator --show-sdk-path`
+build_tool_arguments: 
+  - -Xswiftc
+  - -sdk
+  - -Xswiftc
+  - /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.2.sdk
+  - -Xswiftc
+  - -target
+  - -Xswiftc
+  - x86_64-apple-ios15.2-simulator

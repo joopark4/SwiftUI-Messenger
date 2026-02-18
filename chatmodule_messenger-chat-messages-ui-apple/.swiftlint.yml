@@ -1,0 +1,29 @@
+disabled_rules:
+ - identifier_name
+ - file_length
+ - line_length
+ - type_body_length
+ - cyclomatic_complexity
+ - function_body_length
+ - type_name
+ - shorthand_operator
+ - large_tuple
+ - function_parameter_count
+ - unneeded_break_in_switch
+ - multiple_closures_with_trailing_closure
+ - inclusive_language
+
+opt_in_rules:
+ - force_unwrapping
+ - force_cast
+ - force_try
+
+force_cast: error
+force_try: error
+force_unwrapping: error
+
+excluded:
+- Carthage
+- Pods
+
+reporter: "xcode"

@@ -1,0 +1,203 @@
+/* 
+  Localizable.strings
+  ChatModuleMessengerAppApple
+  
+*/
+
+"Name" = "이름";
+"ChatRoom" = "대화방";
+"PassOn" = "전달하기";
+"Piece" = "개";
+"Search.Result.NotFound" = "검색결과가 없습니다.";
+
+"Friends" = "친구";
+"Friends.AddFriendByContact" = "연락처로 추가";
+"Friends.FriendName" = "친구 이름";
+"Friends.Empty.Subtitle1" = "친구 목록이 비어 있습니다.";
+"Friends.Empty.Subtitle2" = "\'+\'버튼을 사용하여 새 친구 추가";
+"Friends.AddCompletion" = "친구 등록이 완료되었습니다.";
+"Friends.SetName" = "친구가 설정한 이름: %@";
+
+"Friends.Add.Title" = "친구 추가";
+"Friends.Add.QRCode" = "QR 코드";
+"Friends.Add.ByContact" = "연락처로 추가";
+"Friends.Add.ByID" = "ID로 추가";
+"Friends.Add.Recommended" = "추천 친구";
+
+"Friends.Header.Friends" = "친구";
+"Friends.Header.NewFriends" = "새로운 친구";
+"Friends.Header.Updated" = "업데이트 한 친구";
+"Friends.Header.Favorites" = "즐겨찾기";
+"Friends.Header.Recommended" = "추천친구";
+"Friends.Recommended.Title" = "새로운 친구를 만나보세요!";
+"Friends.Recommended.SubTitle" = "추천친구";
+"Friends.Recommended.Empty" = "추천된 친구가 없습니다";
+
+"Friends.Invite.CellTitle" = "친구를 초대해보세요!";
+"Friends.Invite.Title" = "친구 초대";
+"Friends.Invite.SubTitle" = "초대 방법을 선택하세요.";
+"Friends.Invite.Share" = "다른 앱으로 공유";
+"Friends.Invite.Copy" = "초대 링크 복사";
+"Friends.Invite.Copy.Alert" = "초대 링크가 복사되었습니다.\n초대 링크를 게시판에 올리거나 친구들에게 공유해보세요.";
+
+"Friends.Selection.SendProfile.Title" = "프로필 선택";
+"Friends.Selection.CreateRoom.Title" = "대화상대 선택";
+"Friends.Selection.InviteRoom.Title" = "대화상대 선택";
+"Friends.Selection.MyProfile" = "내 프로필";
+"Friends.Selection.Favorite" = "즐겨찾기";
+"Friends.Selection.Friends" = "친구";
+
+"Contact" = "전화번호";
+"Contact.SelectCountry" = "국가 선택";
+"Contact.InputInfo" = "- 없이 숫자만 입력해 주세요";
+"Contact.AddtoPhoneContacts" = "휴대폰 연락처에 추가";
+
+"Message.DirectMessage" = "1:1 대화";
+
+"Camera" = "카메라";
+
+"Chat" = "대화";
+"Chat.RoomList.Empty.Title" = "대화를 시작해 보세요";
+"Chat.RoomList.Empty.Description" = "만들기 버튼을 누르거나 우측 상단 새로운 대화 버튼을 눌러 다양한 대화방을 만들어보세요";
+"Chat.RoomList.Empty.Button" = "만들기";
+"Chat.SelectChat.MultiRoomInfoEdit" = "그룹대화방 정보 설정";
+"Chat.SelectChat.MultiRoomInfoEdit.InfoText" = "대화시작 전, 내가 설정한 그룹대화방의 사진과 이름은 다른 모든 대화상대에게도 동일하게 보입니다.\n대화시작 후 설정한 사진과 이름은 나에게만 보입니다.";
+"Chat.SelectChat.MultiRoomInfoEdit.Profile.Message" = "프로필 사진 등록";
+"Chat.SelectChat.MultiRoomInfoEdit.Profile.Photo" = "앨범에서 사진 선택";
+"Chat.SelectChat.MultiRoomInfoEdit.Profile.Camera" = "사진 촬영";
+
+"Chat.SendContact.Title" = "연락처";
+"Chat.SendContact.Profile" = "프로필 보내기";
+"Chat.SendContact.Contact" = "연락처 보내기";
+"Chat.SendContact.BusinessCard" = "명함 보내기";
+
+"Chat.ChatRoomSetting" = "대화방 설정";
+"Chat.ChatRoomSetting.RoomName" = "대화방 이름";
+"Chat.ChatRoomSetting.CurrentRoomWallPaper" = "현재 대화방 배경화면";
+"Chat.ChatRoomSetting.CurrentRoomTone" = "현재 대화방 알림음";
+"Chat.ChatRoomSetting.RoomControl" = "대화방 관리";
+"Chat.ChatRoomSetting.RoomRemoveAll" = "대화내용 모두 삭제";
+"Chat.ChatRoomSetting.RoomContentsExport" = "대화 내용 내보내기";
+"Chat.ChatRoomSetting.RoomLeave" = "대화방 나가기";
+"Chat.ChatRoomSetting.RoomDenial" = "초대 거부 및 나가기";
+"Chat.ChatRoomSetting.RoomRemoveAll.Message" = "현재 대화방의 모든 대화내용을\n삭제 하시겠습니까?";
+"Chat.ChatRoomSetting.ContenExport.OnlyText" = "텍스트 메시지만 내보내기";
+"Chat.ChatRoomSetting.ContenExport.OnlyTextBody" = "대화 내용중 텍스트 메시지만 파일로 첨부하여 이메일로\n전송합니다.";
+"Chat.ChatRoomSetting.ContenExport.SaveAll" = "모든 메시지 도큐멘트로 저장하기";
+"Chat.ChatRoomSetting.ContenExport.SaveAllBody" = "사진, 동영상 등 모든 대화 내용을 압축파일로 첨부하여 \n기기의 도큐멘트 영역에 저장합니다. 저장된 압축 파일은 \niTunes를 실행하여 “설정> App” 메뉴 내 “파일 공유”\n기능을 통해 폰에 저장된 도큐멘트 파일을 컴퓨터로 \n전송할 수 있습니다.";
+
+"Chat.Invitation.Search.Placehold" = "이름(초성), 전화번호 검색";
+"Chat.Invitation.Selected" = "대화상대 선택";
+
+"Chat.Setting.TextTone.Title" = "알림음";
+"Chat.Setting.TextTone.ChatModuleTone" = "챗 알림음";
+"Chat.Setting.TextTone.SystemTone" = "시스템 알림음";
+
+"Chat.Drawer.Title" = "대화방 서랍";
+"Chat.Drawer.Album" = "사진, 동영상";
+"Chat.Drawer.File" = "파일";
+"Chat.Drawer.Link" = "링크";
+"Chat.Drawer.Music" = "음악";
+"Chat.Drawer.Board" = "대화게시판";
+"Chat.Drawer.Member" = "대화 상대";
+"Chat.Drawer.Member.Invite" = "대화상대 초대";
+"Chat.Drawer.Leave.Title" = "대화방 나가기";
+"Chat.Drawer.Leave.Description" = "대화방에서 나가시겠습니까?\n나가기를 하면 대화내용이 모두 삭제되고\n대화목록에서도 삭제됩니다.";
+
+"Wallpapers" = "배경화면";
+"Wallpaper.Background.Select" = "배경 선택";
+"Wallpaper.BackgroundColor" = "색상 배경";
+"Wallpaper.BackgroundIllust" = "일러스트 배경";
+"Wallpaper.Default.Apply" = "기본 배경화면 적용하기";
+"Wallpaper.Default.Apply.Message" = "현재 대화방의 배경화면 설정을\n초기화하시겠습니까?\n(기본 배경화면 설정에서 지정한 배경으로 변경됩니다.)";
+"Wallpaper.Default.Apply.Comfirm" = "배경화면 초기화";
+
+"Apply" = "적용";
+"Send" = "전송";
+
+"Media.RecentItems" = "최근 항목";
+"Media.AllView" = "전체보기";
+
+"Resolution" = "화질";
+"Photo" = "사진";
+"Video" = "동영상";
+"Quality_Low" = "저용량";
+"Quality_Normal" = "일반 화질";
+"Quality_Original" = "원본";
+"Quality_High" = "고화질";
+
+"ChatRoom.MediaView.Save" = "저장";
+"ChatRoom.MediaView.SaveAllPhotos" = "묶음사진 전체 저장";
+"ChatRoom.MediaView.SavePhoto" = "이 사진만 저장";
+"ChatRoom.MediaView.Forwarding" = "전달";
+"ChatRoom.MediaView.ForwardingAllPhotos" = "묶음사진 전체 전달";
+"ChatRoom.MediaView.ForwardingPhoto" = "이 사진만 전달";
+"ChatRoom.MediaView.DeleteInfo" = "선택한 사진 또는 동영상을 삭제하시겠습니까?\n묶음 사진은 전체 사진이 함께 삭제됩니다.";
+"ChatRoom.MediaView.Delete" = "삭제";
+"ChatRoom.MediaView.Showmore" = "더보기";
+"ChatRoom.MediaView.DetailInfo" = "상세정보";
+"ChatRoom.MediaView.ShowMessage" = "대화 보기";
+"ChatRoom.MediaView.Reload" = "다시 불러오기";
+
+"ChatRoom.File.No.Contents" = "파일이 없습니다";
+"ChatRoom.File.No.Infomation" = "대화방에서 주고 받은 파일을\n모아보고, 간편하게 관리하세요.";
+"ChatRoom.File.SelectedDelete" = "선택한 파일을 삭제하시겠습니까?";
+"ChatRoom.File.No.AddInfo" = "나만의 파일을 여기에 추가해 보세요.";
+
+"ChatRoom.Link.No.Contents" = "링크가 없습니다";
+"ChatRoom.Link.No.Infomation" = "대화방에서 주고 받은 링크를\n모아보고, 간편하게 관리하세요.";
+"ChatRoom.Link.SelectedDelete" = "선택한 링크를 삭제하시겠습니까?";
+"ChatRoom.Link.No.AddInfo" = "나만의 링크를 여기에 추가해 보세요.";
+
+"ChatRoom.Album.No.Contents" = "사진, 동영상이 없습니다";
+"ChatRoom.Album.No.Infomation" = "대화방에서 주고 받은 사진, 동영상을\n모아보고, 간편하게 관리하세요.";
+"ChatRoom.Album.SelectedDelete" = "선택한 사진, 동영상을 삭제하시겠습니까?";
+"ChatRoom.Album.No.AddInfo" = "나만의 사진과 동영상을 여기에 추가해 보세요.";
+
+"Search.FriendName" = "친구 이름 검색";
+"Search.RoomName" = "대화방 이름 검색";
+"Message.Input" = "메시지를 입력해 주세요";
+
+"ChatRoom.Forwarding.Select" = "전달 대상 선택";
+"ChatRoom.Forwarding.SearchEmpty" = "검색 결과가 없습니다.";
+
+"ChatRoom.Media.DownloadSize.Warning" = "선택한 파일의 용량이 20MB가 넘습니다.\n다운로드 하시겠습니까?\n\n다운로드시 데이터 요금이 발생할 수 있습니다.";
+"ChatRoom.Media.PhotoMovie.Management.WarningTitle" = "사진, 동영상 용량 관리";
+"ChatRoom.Media.PhotoMovie.Management.Warning" = "대화방에서 주고 받은 사진, 동영상 파일을 삭제하고 대화방 용량을 관리해 보세요";
+"ChatRoom.Media.Content.All.Delete" = "모두 삭제";
+
+"SmileMe.Camera.Record" = "2초간 움직이는 스마일미를 찍어 보세요!";
+"SmileMe.Preview.Save" = "촬영한 스마일미 저장!";
+"SmileMe.Preview.Saved" = "스마일미가 저장 되었습니다.";
+"SmileMe.Info" = "저작권에 위반되는 자료 배포에 대한 책임은 사용자 본인에게 있습니다.";
+
+"SmileMe" = "스마일미";
+"SmileMe.Empty.MakeSmileMe" = "스마일미 만들기";
+"SmileMe.Empty.Description" = "내가 주인공이 되는 이모티콘,\n스마일미를 만들어보세요.";
+"SmileMe.Empty.Info" = "저작권에 위반되는 자료 배포에 대하여 책임은 사용자 보인에게 있습니다.";
+"SmileMe.Delete.Ifto" = "선택한 스미일미를 삭제하시겠습니까?\n삭제된 스마일미는 복구되지 않습니다.";
+
+"Search.UnifiedSearch.PlaceHold" = "대화방, 친구";
+"Search.RecentSearch" = "최근 검색";
+"Search.RecentSearch.RemoveAll" = "전체삭제";
+"Search.RecentSearch.AutoSaveOn" = "자동저장 켜기";
+"Search.RecentSearch.AutoSaveOff" = "자동저장 끄기";
+"Search.RecentSearch.AutoSaveOff.Info" = "최근 검색 저장 기능이 꺼져 있습니다.";
+"Search.Keyword" = "추천 키워드";
+"Search.EmoticonRecommend" = "추천 이모티콘 스타일";
+
+"Search.Result.All" = "전체";
+"Search.Result.Friend" = "친구";
+"Search.Result.ChatRoom" = "대화방";
+"Search.Result.Setting" = "설정";
+
+"Profile.My.Chat" = "나와의 대화";
+"Profile.My.Edit" = "프로필 편집";
+"Profile.Friend.Add" = "친구추가";
+"Profile.Friend.Block" = "차단";
+
+"GoToTalkDrive" = "톡서랍 바로가기";
+"Deselect" = "선택 해제";
+"Search.SendAndKeyword" = "보낸 사람, 키워드로 검색";
+"Search.Send.User" = "보낸 사람으로 찾기";
+

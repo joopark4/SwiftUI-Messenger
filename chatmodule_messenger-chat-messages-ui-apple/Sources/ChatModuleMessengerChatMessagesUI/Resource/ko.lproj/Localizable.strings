@@ -1,0 +1,17 @@
+
+"ChatMessage.Album" = "앨범";
+"ChatMessage.Camera" = "카메라";
+"ChatMessage.Music" = "음악";
+"ChatMessage.File" = "파일";
+"ChatMessage.VoiceRec" = "음성메시지";
+"ChatMessage.Contact" = "연락처";
+"ChatMessage.Captured" = "캡쳐";
+"ChatMessage.Calendar" = "캘린더";
+"ChatMessage.Send.PhotoBundle" = "사진 묶어보내기";
+
+"ChatMessage.Bubble.ViewAll" = "전체보기";
+"ChatMessage.Bubble.TimeFormat" = "a hh:mm";
+"ChatMessage.Info.DateFormat" = "yyyy년 M월 d일 E요일";
+"ChatMessage.Info.Invited" = "%@님이 %@님을 초대했습니다.";
+"ChatMessage.Info.LetChatRoom" = "%@님이 나갔습니다.";
+"ChatMessage.Info.Reinvite" = "대화방으로 초대하기";

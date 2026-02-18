@@ -1,0 +1,4 @@
+
+"Chat.Setting.TextTone.Default" = "기본";
+"Chat.Drawer.IsMe" = "나";
+"Chat.Contents.CountAndSize" = "%d개 / %.2f %@";

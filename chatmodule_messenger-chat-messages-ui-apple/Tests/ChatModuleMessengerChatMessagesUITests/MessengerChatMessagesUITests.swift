@@ -1,0 +1,16 @@
+//
+//  MessengerChatMessagesUITests.swift
+//  ChatModuleMessengerChatMessagesUI
+//
+
+import XCTest
+@testable import ChatModuleMessengerChatMessagesUI
+
+final class ChatModuleMessengerChatMessagesUITests: XCTestCase {
+    func testExample() throws {
+        // This is an example of a functional test case.
+        // Use XCTAssert and related functions to verify your tests produce the correct
+        // results.
+//        XCTAssertEqual(ChatModuleMessengerChatMessagesUI().text, "Hello, World!")
+    }
+}
