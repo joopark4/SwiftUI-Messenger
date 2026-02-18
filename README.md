@@ -1,2 +1,2 @@
 # SwiftUI-Messenger
-swiftui로 구현한 메신서 UI
+swiftui와 spm으로 구성한 메신서 UI
